@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+<TITLE> Instagram </TITLE>
+<link rel="stylesheet" href="css.css"/>
+</HEAD> 
+  
+ <BODY>
+ <h2> Sommaire : </h2> <br/>
+- <a href="Page1.html">Quel est le but de Instagram ?</a><br/>
+- <a href="Page2.html">Qui est le fondateur de Instagram ?</a><br/>
+- <a href="Page3.html">Quel âge pour avoir Instagram ?</a><br/>
+
+<div id="Centre">
+ <img src="https://www.mllorient.org/wp-content/uploads/instagram.jpg" style="widht : 5%; height : auto;"/>
+</div>
+
+</body>
